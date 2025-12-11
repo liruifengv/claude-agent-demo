@@ -11,6 +11,28 @@
 - **TUI 聊天** (`tui-chat.ts`) - 终端交互式聊天界面
 - **带工具的 TUI 聊天** (`tui-chat-with-tools.ts`) - 集成 MCP 服务器和计算器工具的聊天
 
+### DeepResearch Agent
+
+一个多 Agent 协作的研究系统，位于 `src/research-agent/`：
+
+```
+Lead Agent (协调者) ──┬──▶ Researcher ×N (研究员)
+                     │      使用 WebSearch 搜索
+                     │      保存到 files/research_notes/
+                     │
+                     └──▶ Report-Writer (报告编写)
+                            读取研究笔记
+                            生成报告到 files/reports/
+```
+
+运行方式：
+
+```bash
+npx tsx src/research-agent/agent.ts
+```
+
+详细文档见 [src/research-agent/README.md](src/research-agent/README.md)
+
 ## 环境要求
 
 - Node.js 18+
