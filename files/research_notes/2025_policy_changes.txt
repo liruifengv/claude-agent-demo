@@ -1,0 +1,29 @@
+# 2025 Financial Policy and Regulatory Changes - Research Summary
+
+## Central Bank Monetary Policy Decisions
+
+The Federal Reserve implemented three consecutive 25 basis point interest rate cuts in 2025, reducing the federal funds rate from 4.00-4.25% in September to 3.50-3.75% by December. This represents a cumulative easing of 175 basis points since September 2024. The Fed also ended its balance sheet runoff in October and began monthly Treasury bill purchases of approximately $40 billion to maintain ample reserve levels. The December 2025 Summary of Economic Projections indicates only one additional 25 basis point cut expected in 2026, signaling a data-dependent pause in monetary policy.
+
+## New Financial Regulations - Basel III Implementation
+
+The Basel III "Endgame" rules took effect on July 1, 2025, requiring U.S. banks with assets over $100 billion to increase Common-Equity Tier 1 capital by 16%. Key changes include: implementation of a 72.5% output floor for risk-weighted assets, elimination of the AOCI filter for large banks, and new Standardized Measurement Approach for operational risk. The FDIC's Part 370 record-keeping rule became effective April 1, 2025, requiring GSIBs to maintain machine-readable depositor-level data. The SEC introduced climate-risk disclosure requirements for large filers and cybersecurity incident reporting rules that began affecting banks in 2025.
+
+## Tax Policy Changes
+
+Congress made the 2017 Tax Cuts and Jobs Act rates and brackets permanent, avoiding the scheduled "tax cliff" after 2025. The top individual tax rate remains at 37% instead of reverting to 39.6%. Corporate tax rate stays at 21% for 2025, with proposals to reduce it to 20% (15% for U.S. manufacturing). Bonus depreciation was retroactively restored to 100% for 2025-2026. The U.S. formally stepped back from the OECD's 15% global minimum tax agreement, though American multinationals remain exposed to foreign top-up taxes under the Undertaxed-Profits Rule.
+
+## Trade Policy and Market Impacts
+
+The U.S. maintained elevated tariffs on Chinese goods in 2025, with rates varying by product category. Trade tensions continued to affect global supply chains, prompting businesses to diversify sourcing strategies. The EU and other trading partners implemented their own trade policy adjustments in response to U.S. measures. These trade policies contributed to higher input costs for businesses and influenced inflation dynamics, though the impact was partially offset by the Fed's monetary easing.
+
+## Overall Market and Business Impact
+
+The combination of monetary easing, stricter capital requirements, and trade policy uncertainties created a mixed environment for businesses in 2025. Banks faced higher funding costs due to Basel III implementation, while consumers benefited from lower interest rates. The permanent extension of TCJA provisions provided tax certainty for businesses and individuals. Trade tensions continued to pressure certain sectors, particularly manufacturing and agriculture, though some relief came from the Fed's accommodative stance.
+
+## Key Sources:
+- [Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm): Three 25bp rate cuts in 2025, balance sheet policy shift
+- [IMF Global Financial Stability Report](https://www.imf.org/-/media/Files/Publications/GFSR/2024/October/English/textrevised.ashx): Expected 150bp of Fed cuts by year-end
+- [Citizen Watch Report](https://citizenwatchreport.com/global-banks-prepare-for-basel-iii-rollout-on-july-1-2025-borrowing-costs-expected-to-rise/): Basel III capital requirements increase
+- [IRS](https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions): TCJA provisions made permanent
+- [Kiplinger](https://www.kiplinger.com/taxes/trump-tax-bill-summary): Corporate tax rate proposals
+- [China Briefing](https://www.china-briefing.com/news/us-china-tariff-rates-2025/): Ongoing U.S.-China trade tensions

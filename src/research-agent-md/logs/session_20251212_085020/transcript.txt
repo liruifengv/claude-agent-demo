@@ -1,0 +1,19 @@
+
+You: 研究 2025 年的金融大事件
+
+Agent: Breaking this into 4 research areas: 2025 economic/market trends, major policy changes, significant corporate events, and global financial crises. Spawning researchers now.
+
+[🚀 Spawning RESEARCHER-1: 2025 economic market trends]
+
+
+[🚀 Spawning RESEARCHER-2: 2025 policy regulatory changes]
+
+
+[🚀 Spawning RESEARCHER-3: 2025 corporate financial events]
+
+
+[🚀 Spawning RESEARCHER-4: 2025 financial crises developments]
+All research complete. Spawning report-writer to synthesize findings.
+
+[🚀 Spawning REPORT-WRITER-1: Synthesize 2025 financial events report]
+Research complete. Report saved to files/reports/2025_major_financial_events.txt

@@ -1,0 +1,6 @@
+
+You: 研究 2025 年前端大事件
+
+Agent: I'll help you research the major frontend events of 2025. Let me search for the latest information on frontend developments this year.
+[MAIN AGENT] → WebSearch
+    Input: query='frontend development major events 2025 JavaScript frameworks React Vue Angular'

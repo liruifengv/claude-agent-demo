@@ -1,0 +1,53 @@
+# 2025 Major Financial Events Summary
+
+## Executive Summary
+
+2025 marked a pivotal year for global finance, characterized by coordinated monetary easing, significant regulatory changes, and resilient economic growth despite ongoing challenges. The year saw major central banks implementing rate cuts while navigating inflation normalization, unprecedented corporate consolidation, and evolving trade dynamics that reshaped global markets.
+
+## Key Economic Performance
+
+The global economy demonstrated remarkable resilience in 2025, with the US achieving a soft landing scenario. GDP growth stabilized at 2.3% annually, while unemployment remained historically low at 3.8-4.1%. Consumer confidence rebounded to 110-115 on the Conference Board index as inflation pressures finally eased. Headline inflation declined to 2.4% by year-end, approaching the Federal Reserve's 2% target, while core inflation stabilized at 2.6%.
+
+## Monetary Policy Pivot
+
+Central banks worldwide shifted toward accommodative policies in 2025. The Federal Reserve implemented three consecutive 25 basis point cuts, reducing rates from 4.00-4.25% to 3.50-3.75%. The European Central Bank cut more aggressively, reducing its deposit rate from 4.0% to 2.5%, while the Bank of Japan made history by raising rates from -0.1% to 0.25%, ending its ultra-loose monetary policy era. The Bank of England lowered rates to 4.25% amid cooling inflation.
+
+## Market Performance and Volatility
+
+Financial markets experienced robust growth with historically low volatility. The S&P 500 reached new all-time highs, gaining 15-20% year-to-date, driven primarily by AI sector expansion. Technology stocks led performance, with AI-related companies posting gains exceeding 30%. The "Magnificent 7" tech stocks added $3 trillion in market value. Market volatility remained subdued with the VIX averaging below 20, attributed to strong corporate earnings and resilient economic data.
+
+## Regulatory Transformation
+
+The financial sector faced significant regulatory changes with Basel III "Endgame" rules taking effect July 1, 2025. US banks with assets over $100 billion faced 16% increases in Common-Equity Tier 1 capital requirements. New SEC climate-risk disclosure requirements and cybersecurity incident reporting rules began affecting large institutions. The FDIC's Part 370 record-keeping rule required GSIBs to maintain machine-readable depositor data.
+
+## Corporate Consolidation Wave
+
+2025 witnessed unprecedented merger and acquisition activity. The largest deal was Union Pacific's proposed $85 billion acquisition of Norfolk Southern, creating a railroad mega-merger. Other major transactions included American Water Works' $63 billion acquisition of Essential Utilities, and a consortium taking Electronic Arts private for $55 billion. Capital One's $35 billion acquisition of Discover Financial represented major credit card sector consolidation.
+
+## Public Market Activity
+
+The IPO market showed signs of recovery with CATL's $17.2 billion dual-listing in Hong Kong marking the world's largest IPO by proceeds. Notable US listings included Strategy Inc.'s $2.5 billion raise and Circle Internet Group's $1 billion IPO. Several major companies including Stripe ($91B valuation) and Databricks ($62B valuation) remained in the IPO pipeline, indicating continued market optimism.
+
+## Global Trade and Currency Dynamics
+
+The US dollar index declined 5-7% as rate differentials narrowed with other economies. The euro strengthened to 1.15 against the dollar, while the Japanese yen experienced significant volatility, moving from 162 to 145 per dollar. Near-shoring and friend-shoring accelerated, with US companies reducing China exposure by 15-20%. Mexico and Vietnam emerged as primary beneficiaries of supply chain diversification.
+
+## Sector-Specific Developments
+
+Technology and AI sectors significantly outperformed traditional industries, while energy stocks underperformed due to stable oil prices averaging $75-80 per barrel and increased renewable adoption. The financial sector faced mixed performance, benefiting from higher interest rates but confronting commercial real estate exposure challenges. Healthcare and services led employment gains, contributing to sustained job creation averaging 180,000 monthly.
+
+## Challenges and Risks
+
+Despite overall positive performance, 2025 saw notable corporate failures including Rite Aid's Chapter 11 bankruptcy, Forever 21's second bankruptcy filing, and technology company collapses such as 23andMe and chipmaker Wolfspeed. International bankruptcies included Swedish EV-battery manufacturer Northvolt and German electric-jet developer Lilium, reflecting high interest rate pressures and uneven consumer demand.
+
+## Tax Policy Certainty
+
+Congress provided business certainty by making 2017 Tax Cuts and Jobs Act provisions permanent, avoiding scheduled rate increases. The top individual tax rate remained at 37%, corporate rates stayed at 21%, and bonus depreciation was restored to 100% for 2025-2026. The US formally stepped back from the OECD's 15% global minimum tax agreement, though American multinationals remained exposed to foreign top-up taxes.
+
+## Looking Forward
+
+The year 2025 established a foundation for continued economic stability, with central banks successfully navigating the delicate balance between controlling inflation and supporting growth. The combination of technological innovation, regulatory adaptation, and evolving global trade patterns positioned markets for potential continued expansion, though vigilance remains necessary regarding geopolitical tensions and persistent inflationary pressures in certain sectors.
+
+---
+
+*Sources: Federal Reserve, Bloomberg Markets, Wall Street Journal, Financial Times, IMF, Bureau of Labor Statistics, Conference Board, MSCI, Bank for International Settlements, World Trade Organization, Intellizence, TradingView, Quartz, StockAnalysis, various central bank press releases*

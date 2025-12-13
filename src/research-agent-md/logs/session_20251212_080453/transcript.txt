@@ -1,0 +1,10 @@
+
+You: 你好
+
+Agent: 你好！我是Claude，很高兴见到你。有什么我可以帮助你的吗？
+
+You: 研究 2025 年 AI 进展
+
+Agent: I'll help you research AI developments in 2025. Let me search for the latest information on AI progress and breakthroughs this year.
+[MAIN AGENT] → WebSearch
+    Input: query='AI artificial intelligence developments breakthroughs 2025 latest advances'

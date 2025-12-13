@@ -1,0 +1,27 @@
+# Major Corporate Financial Events in 2025
+
+## Mergers & Acquisitions ($10B+ deals)
+The largest M&A transaction of 2025 is Union Pacific's proposed acquisition of Norfolk Southern for approximately $85 billion, creating a railroad mega-merger. Other major deals include American Water Works acquiring Essential Utilities for $63 billion, and a consortium including PIF/Silver Lake taking Electronic Arts private for $55 billion. Capital One's $35 billion acquisition of Discover Financial represents major consolidation in credit cards, while Alphabet's $32 billion planned acquisition of cloud-security firm Wiz shows Big Tech's continued AI/security spending.
+
+## IPOs
+CATL's $17.2 billion dual-listing in Hong Kong (May 2025) was the world's largest IPO by proceeds, achieving a $172 billion market cap on day one. In the US, Strategy Inc. raised $2.5 billion in November, while Circle Internet Group (USDC stablecoin) had a $1 billion IPO in June. Other notable listings include CoreWeave (AI-GPU cloud provider) and Figma (design software). Several major companies remain in the IPO pipeline including Stripe ($91B valuation) and Databricks ($62B valuation).
+
+## Bankruptcies
+Major corporate bankruptcies in 2025 include pharmacy chain Rite Aid (Chapter 11 in May), Forever 21's second bankruptcy filing in 12 months, and restaurant chain Hooters converting to all-franchise model. Notable tech failures include DNA-testing company 23andMe and chipmaker Wolfspeed. International bankruptcies include Swedish EV-battery manufacturer Northvolt and German electric-jet developer Lilium, reflecting broader pressures from high interest rates and uneven consumer demand.
+
+## Earnings Surprises
+2025 saw record earnings beat frequency with 64% of S&P 500 companies beating consensus by ≥1 standard deviation. However, market rewards were minimal (+0.1% average) while misses were severely punished (-4.9% average). Notable beats included HF Sinclair Q2 (62% EPS surprise), Upstart's first profitable quarter since 2022, and Adobe's AI-driven results. Major misses came from Netflix and Chipotle Q3, with investors particularly punishing any signs of deceleration despite overall strong earnings.
+
+## Stock Splits
+High-profile forward splits in 2025 included Netflix (10-for-1), O'Reilly Automotive (15-for-1), and Interactive Brokers (4-for-1). Reverse splits were common among struggling companies: Lucid Group (1-for-10), FiscalNote (1-for-12), and Tilray Brands (1-for-10). Over 100 reverse splits occurred in 2025, mostly by small-caps maintaining listing compliance, while Microsoft and Meta remained notable non-splitters despite high share prices.
+
+## Corporate Scandals
+The largest corporate scandal of 2025 was Indonesia's "PertaminaGate" - a $12 billion oil-import corruption case involving state oil company PT Pertamina, the largest in Indonesian history. Other significant cases included Macy's $154 million accounting fraud for misclassifying delivery expenses, and Nigeria's FX-trading platform crackdown seizing ₦45 billion. Regulatory trends show increased AI-driven forensic audits and tougher whistle-blower laws globally, with enforcement agencies signaling 2025 as a record year for auditor examinations.
+
+Sources:
+- [Intellizence M&A Deals](https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/)
+- [TradingView IPO Report](https://www.tradingview.com/news/cointelegraph:4b0700762094b:0-strategy-buys-21k-bitcoin-with-2025-s-biggest-public-offering/)
+- [Quartz Bankruptcy List](https://qz.com/well-known-companies-that-filed-for-bankruptcy-2025)
+- [Investing.com Earnings Transcripts](https://www.investing.com/news/transcripts/)
+- [StockAnalysis Splits Calendar](https://stockanalysis.com/actions/splits/2025/)
+- [Toxigon Scandals Report](https://toxigon.com/historical-scandals-2025)

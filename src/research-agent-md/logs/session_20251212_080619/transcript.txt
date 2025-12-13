@@ -1,0 +1,12 @@
+
+You: 研究 2025 年 AI 进展
+
+Agent: 我来帮您研究2025年AI进展。让我创建一个详细的研究计划。
+[MAIN AGENT] → TodoWrite
+    Input: {"todos":[{"content":"搜索2025年AI领域的主要突破和进展","status":"pending","activeForm":"Searching for major AI b...
+
+[MAIN AGENT] → TodoWrite
+    Input: {"todos":[{"content":"搜索2025年AI领域的主要突破和进展","status":"in_progress","activeForm":"正在搜索2025年AI领域的主要突破和进...
+让我开始深入研究2025年的AI进展。
+[MAIN AGENT] → WebSearch
+    Input: query='major AI breakthroughs 2025 artificial intelligence advances'

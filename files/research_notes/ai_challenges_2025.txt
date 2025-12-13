@@ -1,0 +1,145 @@
+AI Technical Challenges and Limitations in 2025: Research Notes
+================================================================
+
+This document summarizes the main technical challenges and limitations facing artificial intelligence development in 2025, compiled from recent research papers, industry reports, and expert analyses.
+
+## 1. Hallucinations and Factual Accuracy
+
+AI models continue to "confidently make things up" when lacking data, with detection remaining unreliable. This represents the #1 legal risk identified by general-counsel surveys, as undetected errors can enter critical documents like contracts, court filings, and medical decisions.
+
+Key issues:
+- Models generate plausible-sounding but false information
+- No reliable method for automatic hallucination detection
+- Particularly dangerous in high-stakes applications (healthcare, legal, financial)
+- Current mitigation strategies (Constitutional AI, RLHF) still produce errors
+
+## 2. Bias and Fairness
+
+Training data, algorithmic choices, and user feedback loops inject various forms of bias:
+- Gender, racial, cultural, and ideological bias inherited from training data
+- 45% of enterprises cite "data accuracy or bias" as the biggest barrier to Gen-AI roll-outs
+- Models amplify societal biases present in training data
+- No scalable way to "de-bias" without hurting overall performance
+
+## 3. Energy Consumption and Environmental Impact
+
+AI's environmental footprint has become a critical concern:
+
+**Current Trajectory:**
+- AI projected to consume nearly half of all data-center electricity by end of 2025
+- Global AI-data-center demand could reach 68 GW by 2027 (California's entire 2022 grid)
+- Data-center electricity demand projected to double to ~945 TWh by 2030
+- Without efficiency improvements, AI infrastructure could add 2-2.5 Gt CO₂e annually by 2030
+
+**Resource Consumption per Task:**
+- Text prompt: 0.24-2.9 Wh (44× reduction achieved by Google in one year)
+- Image generation (1024×1024): 4.4 kJ per image
+- 5-second generative video: ~1 kWh, 4L water, 466g CO₂e
+- Training a frontier model: ~626,000 lb CO₂e
+
+**Water Usage:**
+- 20-50 turn ChatGPT conversation evaporates ~0.5L water
+- Training GPT-3 consumed ~700,000L of water
+
+## 4. Computing Requirements and Scalability
+
+- Training frontier models requires 10⁴-10⁵ GPUs; only a handful of companies can afford it
+- GPU/ASIC scarcity and high costs slow down both training and fine-tuning
+- Memory bandwidth, not raw FLOPS, is the usual bottleneck during inference
+- Exascale systems need liquid cooling and custom schedulers to hit >20% of theoretical peak
+
+## 5. Safety and Security Concerns
+
+Models remain vulnerable to various attacks:
+- Prompt-injection and jail-break attacks
+- Data-poisoning attacks
+- Model inversion attacks
+- Lack of explainability complicates incident response
+- 16% of legal departments list "explainability limitations" as a top-five worry
+
+## 6. Regulatory and Compliance Uncertainty
+
+- No harmonized global rule-set for model audits, risk tiers, or liability
+- 85% of legal departments feel "minimally prepared" for AI regulations
+- Pending EU AI Act, US Executive Order rules, and Chinese algorithm filing requirements impose different documentation duties
+- Unclear liability when autonomous systems cause harm
+
+## 7. Unsolved Research Problems
+
+### Alignment and Safety
+- No guarantee that powerful models remain aligned with human values
+- Hidden goal misspecification remains a problem
+- Current safety measures still produce "sycophantic" answers
+
+### Generalization and Common-sense Reasoning
+- SOTA models ace exams but fail simple physical/social scenarios
+- Embodied cognition, causality, and counter-factual reasoning remain absent
+- Sim-to-real transfer in robotics shows 40% failure rates on household tasks
+
+### Evaluation and Benchmarks
+- New models instantly saturate traditional benchmarks (MMLU, HumanEval)
+- No agreement on what constitutes "general intelligence"
+- Researchers racing to create harder, dynamic tests
+
+### Long-term Memory and Consistency
+- Stateless APIs force manual injection of conversation history
+- Hampers multi-turn applications like collaborative design or patient diagnostics
+
+### Synthetic Data and Copyright
+- High-quality human data drying up
+- Synthetic data can collapse model performance through "hallucination feedback loops"
+- Lawsuits over copyrighted training material remain unresolved
+
+## 8. Integration and Infrastructure Challenges
+
+- Most real-world systems run on decades-old software stacks
+- Retro-fitting sensors, APIs, and secure data pipelines is slow and expensive
+- Integration with legacy infrastructure is an under-studied systems-engineering problem
+
+## 9. Talent and Workforce Gap
+
+- Demand for alignment researchers, MLOps engineers, and domain-savvy data scientists far exceeds supply
+- Mid-market companies cannot compete for scarce specialists
+- 42% of firms cite "inadequate financial justification" as a key adoption barrier
+
+## 10. Physical World Navigation and Robotics
+
+- Even best RL policies show high failure rates on household manipulation tasks
+- Energy efficiency and safe human-robot collaboration remain open problems
+- Physical world navigation requires embodied cognition not present in current models
+
+## 11. Moral Reasoning and Value Pluralism
+
+- Autonomous systems must trade off incompatible human values
+- No mathematical framework captures plural moral frameworks across cultures
+- Particularly critical for applications in healthcare, autonomous vehicles, and military systems
+
+## 12. Privacy-Preserving and Federated Learning
+
+- Differential privacy and federated learning degrade accuracy beyond usable thresholds
+- Secure multi-party training with >10⁹ parameters remains experimental
+- Balancing privacy with model performance is an ongoing challenge
+
+## Conclusion
+
+The AI landscape in 2025 is characterized by a tension between rapid capability advances and persistent fundamental limitations. While models demonstrate impressive narrow performance, they still lack:
+- Reliable truthfulness
+- Robust reasoning
+- Energy efficiency
+- Safety guarantees
+- Clear regulatory frameworks
+- Equitable outcomes
+
+The path forward requires simultaneous progress on multiple fronts: improving model reliability and efficiency, developing better evaluation methods, creating regulatory clarity, and addressing environmental concerns. The gap between narrow AI prowess and general reliability remains the central challenge for the field.
+
+---
+
+Sources:
+- [Limitations of LLMs: Bias, Hallucinations, and More](https://learnprompting.org/docs/basics/pitfalls)
+- [AI's Power Requirements Under Exponential Growth](https://www.rand.org/pubs/research_reports/RRA3572-1.html)
+- [Measuring the environmental impact of delivering AI at scale](https://arxiv.org/html/2508.15734v1)
+- [Environmental impact and net-zero pathways for AI](https://www.nature.com/articles/s41893-025-01681-y)
+- [AI Energy Consumption to Surpass Bitcoin by 2025](https://opentools.ai/news/ai-energy-consumption-to-surpass-bitcoin-by-2025-reveals-alarming-forecast)
+- [12+ Limitations of Artificial Intelligence in 2025 and Beyond](https://aimojo.io/limitations-artificial-intelligence/)
+- [5 Major Challenges of AI in 2025 and Practical Solutions](https://www.workhuman.com/blog/challenges-of-ai/)
+- [Top 10 Limitations of AI & Why They Matter in 2025](https://visionx.io/blog/limitations-of-ai/)

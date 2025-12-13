@@ -1,0 +1,16 @@
+
+You: 你有哪些 subagents
+
+Agent: 我目前有以下可用的 subagents：
+
+1. **general-purpose**: 通用型代理，用于研究复杂问题、搜索代码和执行多步骤任务。可以访问所有工具。
+
+2. **statusline-setup**: 用于配置用户的 Claude Code 状态栏设置。工具：Read, Edit
+
+3. **Explore**: 快速探索代码库的专用代理。用于快速查找文件模式、搜索代码关键词或回答关于代码库的问题。支持不同的探索级别：quick、medium、very thorough。
+
+4. **Plan**: 软件架构代理，用于设计实现策略。提供分步计划、识别关键文件并考虑架构权衡。
+
+5. **claude-code-guide**: 用于获取 Claude Code 和 Claude Agent SDK 官方文档信息的专用代理。
+
+每个 subagent 都有特定的用途和可用的工具集，我可以根据任务需求选择合适的 subagent 来协助完成工作。

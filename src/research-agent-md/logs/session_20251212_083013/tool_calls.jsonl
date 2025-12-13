@@ -1,0 +1,1 @@
+{"event":"tool_call_start","timestamp":"2025-12-12T08:30:33.594Z","tool_use_id":"tool_8lgcfsDLDwISCJBvQ5qwSAkS","agent_id":"MAIN_AGENT","agent_type":"lead","tool_name":"WebSearch","tool_input":{"query":"frontend development major events 2025 JavaScript frameworks React Vue Angular"}}

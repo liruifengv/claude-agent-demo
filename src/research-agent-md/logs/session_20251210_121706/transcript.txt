@@ -1,0 +1,13 @@
+
+You: 你好
+
+Agent: I'm ready to help with research. What topic would you like me to investigate?
+
+You: Research quantum computing developments
+
+Agent: Breaking this into 4 research areas: quantum hardware/qubit technology, quantum algorithms and applications, industry investment and major players, and current challenges and timelines. Spawning researchers now.
+
+[🚀 Spawning RESEARCHER-1: Quantum hardware and qubit technology]
+
+
+[🚀 Spawning RESEARCHER-2: Quantum algorithms and applications]
