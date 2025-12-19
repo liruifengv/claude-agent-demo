@@ -4,3 +4,7 @@ dist
 .DS_Store
 .env
 .env.local
+
+# Generated files
+files/
+logs/

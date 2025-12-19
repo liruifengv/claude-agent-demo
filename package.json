@@ -1,28 +1,15 @@
 {
   "name": "claude-agent-demo",
   "version": "1.0.0",
-  "type": "module",
-  "main": "dist/index.js",
+  "private": true,
+  "description": "Claude Agent SDK Demo - 多项目示例集合",
   "scripts": {
-    "dev": "tsx src/index.ts",
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "research": "tsx src/research-agent/agent.ts",
-    "research-md": "tsx src/research-agent-md/agent.ts"
+    "basic": "cd basic && npm run dev",
+    "deepresearch": "cd deepresearch && npm run dev",
+    "deepresearch-md": "cd deepresearch-md && npm run dev",
+    "install:all": "cd basic && npm install && cd ../deepresearch && npm install && cd ../deepresearch-md && npm install"
   },
-  "keywords": [],
+  "keywords": ["claude", "agent", "sdk", "ai"],
   "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@types/node": "^24.10.0",
-    "tsx": "^4.20.6",
-    "typescript": "^5.9.3"
-  },
-  "dependencies": {
-    "@anthropic-ai/claude-agent-sdk": "^0.1.65",
-    "mathjs": "^15.1.0",
-    "zod": "3.25.76"
-  }
+  "license": "MIT"
 }

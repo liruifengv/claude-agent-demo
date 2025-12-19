@@ -1,0 +1,19 @@
+{
+  "name": "claude-agent-deepresearch",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/agent.js",
+  "scripts": {
+    "dev": "tsx src/agent.ts",
+    "build": "tsc",
+    "start": "node dist/agent.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.1.65"
+  }
+}
