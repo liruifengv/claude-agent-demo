@@ -82,7 +82,14 @@ npm run install:all
 export ANTHROPIC_API_KEY=your_api_key
 ```
 
-> 可以使用 [aihubmix](https://aihubmix.com/?aff=uTxe) 获取 API Key。
+### API Key 获取
+
+你可以在以下平台获取 API Key，使用任何 Claude 兼容的 API 皆可。
+建议使用国产开源模型的 Coding Plan 进行测试。
+
+- [MiniMax](https://platform.minimaxi.com/subscribe/coding-plan?code=BYwayL4mXW&source=link) Coding Plan。
+- [GLM](https://www.bigmodel.cn/glm-coding?ic=GLNXZIM7ZF) Coding Plan。
+- [aihubmix](https://aihubmix.com/?aff=uTxe) 中转平台。
 
 ### 运行项目
 
